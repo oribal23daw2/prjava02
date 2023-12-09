@@ -1,0 +1,36 @@
+// Comandes
+
+1.1.   git clone https://github.com/dacomo2021daw2/prjava02.git
+
+2.1.   git branch branca00
+       git checkout branca00
+       git status
+
+1.5.   git ls-tree -r main
+
+2.5.   git chechout main
+       git status
+       git log
+
+1.7.   git remote add origin https://github.com/oribal23daw2/prjava02.git
+       git branch -M main
+       git push -u origin main
+
+2.7.   git checkout branca00
+       geany Prjava02.java
+
+2.10b. git merge branca00
+
+2.12.  git push origin main
+
+2.14a. git push origin branca01
+
+// Respostes
+
+2.6.   No, la raó és que estem tornant a la branca principal, on aquest canvi no existeix.
+
+2.7.   Si, ara es veu ja que estic a la branca on es va fer el canvi.
+
+2.12c. Només la branca main s'actualitzarà perquè és la que hem pujat.
+
+2.14c. Està a un commit de la branca main
